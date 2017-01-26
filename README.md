@@ -1,6 +1,6 @@
-In this folder we provide examples of usage of R-package "haploR". These examples are in the paper as well.
+In this repository we provide examples of usage of R-package "haploR". These examples are in the paper as well.
 
-The folder contains the following files:
+The repository contains the following files:
 
 * haploR_example.R - an R-script to run the examples.
 * Files example1-4.csv - these files contain an output for each particular example (Example1-4).
