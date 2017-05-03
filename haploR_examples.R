@@ -14,7 +14,7 @@ write.csv(res, "~/Dropbox/haploR/Manuscript/f1000research_submission/examples/ex
 #Get a list of studies
 studies <- getStudyList()
 #Query Hploreg
-res <- queryHaploreg(study=studies[[2]])
+res <- queryHaploreg(study=studies[[1]])
 write.csv(res, "~/Dropbox/haploR/Manuscript/f1000research_submission/examples/example3.csv")
 
 # Example 4: Querying RegulomeDB #
